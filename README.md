@@ -1,2 +1,1 @@
-# Blog_resources
-resource code of xyy's blog
+### resource code of xyy's blog
